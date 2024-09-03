@@ -19,5 +19,6 @@ Here is the code implementation in google colab: <a target="_blank" href="https:
 
 ## Results
 The Bengali Handwritten digit recognition using vgg-style cnn model proved to be one of the best models has the Training accuracy=99.95% and Validation Accuracy = 99.33%![image](https://github.com/user-attachments/assets/4130c605-3a19-4999-b5c7-12c51f3b8380)
+<img width="929" alt="bengali_handwritten_digit_recognition" src="https://github.com/user-attachments/assets/f61a7947-087d-4429-afdf-712e70b2db54">
 
 
